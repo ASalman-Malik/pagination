@@ -92,7 +92,7 @@ const state = {
     page: 1,
     perPage,
     totalPage: Math.ceil(data.length / perPage),
-    maxVisibleButtons: 6
+    maxVisibleButtons: 10
 }
 
 const html = {
