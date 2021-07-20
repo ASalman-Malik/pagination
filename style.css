@@ -67,7 +67,7 @@ header {
 }
 
 #paginate .controls div:not(.numbers), #paginate .controls div.numbers div {
-    width: 40px;
+    width: 75px;
     height: 40px;
     margin: 5px;;
 }
@@ -78,7 +78,7 @@ header {
     
 
 }
-/* .last:hover, .first:hover, .next:hover, .prev:hover{ */
-    /* background-color: var(--blue); */
-    /* color: var(--white); */
-/* } */
+.last:hover, .first:hover, .next:hover, .prev:hover{ 
+     background-color: var(--blue); 
+     color: var(--white); 
+ } 
